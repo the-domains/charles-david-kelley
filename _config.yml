@@ -1,0 +1,28 @@
+name: Charles David Kelley
+favicon: null
+layout_spectrum: 0.20906515652313828
+typography_spectrum: 0.5606223098002374
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.81814008904621
+  lightness: 0.04701903206296265
+  saturation: 0.8573805573396385
+  rhythmicContrast: 0.5039948183111846
+purpose: []
